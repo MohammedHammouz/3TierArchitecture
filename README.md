@@ -1,4 +1,4 @@
-# 3TierArchitecture
+# ContactsPresentation
 This repository contains two separate projects demonstrating the 3-tier architecture pattern in C#:
 
 ---
