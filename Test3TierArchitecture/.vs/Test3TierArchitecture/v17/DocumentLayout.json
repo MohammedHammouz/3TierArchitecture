@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722DDA64-577D-4A5D-9FC7-7BEC61AA5C8B}|Test3TierArchitecture\\Test3TierArchitecture.csproj|c:\\users\\m7ama\\source\\repos\\test3tierarchitecture\\test3tierarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722DDA64-577D-4A5D-9FC7-7BEC61AA5C8B}|Test3TierArchitecture\\Test3TierArchitecture.csproj|solutionrelative:test3tierarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E9D060-2CFC-4C25-A99F-03426D35C998}|CotactsDataAccessLayer\\CotactsDataAccessLayer.csproj|C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\cotactsdataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E9D060-2CFC-4C25-A99F-03426D35C998}|CotactsDataAccessLayer\\CotactsDataAccessLayer.csproj|solutionrelative:cotactsdataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4DF7DA-E1B9-40FF-9B26-1C751826991F}|ContactsBusinessLayer\\ContactsBusinessLayer.csproj|C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\contactsbusinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4DF7DA-E1B9-40FF-9B26-1C751826991F}|ContactsBusinessLayer\\ContactsBusinessLayer.csproj|solutionrelative:contactsbusinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\CotactsDataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "CotactsDataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\CotactsDataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "CotactsDataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:24:51.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\ContactsBusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "ContactsBusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\ContactsBusinessLayer\\Class1.cs",
+              "RelativeToolTip": "ContactsBusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:24:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\Test3TierArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "Test3TierArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Test3TierArchitecture\\Test3TierArchitecture\\Program.cs",
+              "RelativeToolTip": "Test3TierArchitecture\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwEUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:23:33.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

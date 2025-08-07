@@ -1,0 +1,13 @@
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe.config
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.pdb
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.exe
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.pdb
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Debug\Contacts.3D89028D.Up2Date
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.exe.config

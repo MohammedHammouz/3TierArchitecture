@@ -1,0 +1,9 @@
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\bin\Debug\CotactsDataAccessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\bin\Debug\CotactsDataAccessLayer.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb

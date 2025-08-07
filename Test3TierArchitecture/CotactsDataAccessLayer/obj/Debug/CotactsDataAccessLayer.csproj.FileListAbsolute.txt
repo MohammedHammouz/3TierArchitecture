@@ -1,0 +1,6 @@
+C:\Users\m7ama\source\repos\Test3TierArchitecture\CotactsDataAccessLayer\bin\Debug\CotactsDataAccessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\CotactsDataAccessLayer\bin\Debug\CotactsDataAccessLayer.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\CotactsDataAccessLayer\obj\Debug\CotactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\Test3TierArchitecture\CotactsDataAccessLayer\obj\Debug\CotactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\Test3TierArchitecture\CotactsDataAccessLayer\obj\Debug\CotactsDataAccessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\CotactsDataAccessLayer\obj\Debug\CotactsDataAccessLayer.pdb

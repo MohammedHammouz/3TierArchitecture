@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2A7000-C17E-4E84-8686-E11ED644A894}|ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|c:\\users\\m7ama\\source\\repos\\contactspresentationlayer\\contactsdataaccesslayer\\clscontactdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2A7000-C17E-4E84-8686-E11ED644A894}|ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|solutionrelative:contactsdataaccesslayer\\clscontactdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9BB46-FB51-4912-8DDF-6518E59AA050}|ContactsBusinessLayer\\ContactsBusinessLayer.csproj|C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\contactsbusinesslayer\\contactsbusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F9BB46-FB51-4912-8DDF-6518E59AA050}|ContactsBusinessLayer\\ContactsBusinessLayer.csproj|solutionrelative:contactsbusinesslayer\\contactsbusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D380C979-481A-4F00-88D1-69FD710E0C09}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\contactspresentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D380C979-481A-4F00-88D1-69FD710E0C09}|ContactsPresentationLayer\\ContactsPresentationLayer.csproj|solutionrelative:contactspresentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsBusinessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\ContactsBusinessLayer\\ContactsBusinessLayer.cs",
+              "RelativeDocumentMoniker": "ContactsBusinessLayer\\ContactsBusinessLayer.cs",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\ContactsBusinessLayer\\ContactsBusinessLayer.cs",
+              "RelativeToolTip": "ContactsBusinessLayer\\ContactsBusinessLayer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:28:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsContactDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\ContactsDataAccessLayer\\clsContactDataAccess.cs",
+              "RelativeDocumentMoniker": "ContactsDataAccessLayer\\clsContactDataAccess.cs",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\ContactsDataAccessLayer\\clsContactDataAccess.cs",
+              "RelativeToolTip": "ContactsDataAccessLayer\\clsContactDataAccess.cs",
+              "ViewState": "AgIAANQBAAAAAAAAAAAiwOwBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T12:28:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\ContactsPresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsPresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\ContactsPresentationLayer\\ContactsPresentationLayer\\Program.cs",
+              "RelativeToolTip": "ContactsPresentationLayer\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:27:17.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

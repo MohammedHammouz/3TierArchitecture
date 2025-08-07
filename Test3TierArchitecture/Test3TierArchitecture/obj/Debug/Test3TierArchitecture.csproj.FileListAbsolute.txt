@@ -1,0 +1,13 @@
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\obj\Debug\Test3TierArchitecture.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\obj\Debug\Test3TierArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\Test3TierArchitecture.exe.config
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\Test3TierArchitecture.exe
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\Test3TierArchitecture.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\CotactsDataAccessLayer.dll
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\bin\Debug\CotactsDataAccessLayer.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\obj\Debug\Test3Tie.CF513844.Up2Date
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\obj\Debug\Test3TierArchitecture.exe
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\obj\Debug\Test3TierArchitecture.pdb
+C:\Users\m7ama\source\repos\Test3TierArchitecture\Test3TierArchitecture\obj\Debug\Test3TierArchitecture.exe.config

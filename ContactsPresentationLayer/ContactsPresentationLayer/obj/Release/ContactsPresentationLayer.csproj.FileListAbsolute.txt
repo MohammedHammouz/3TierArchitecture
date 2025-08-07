@@ -1,0 +1,2 @@
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Release\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\m7ama\source\repos\ContactsPresentationLayer\ContactsPresentationLayer\obj\Release\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
